@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//sgtree all codes striver : https://ideone.com/mLwRjf
+
 class SGtree{
 
     vector<int>segment;
